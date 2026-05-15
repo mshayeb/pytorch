@@ -75,3 +75,5 @@
 - **CS231n "Neural Networks Part 1".** Clear notes on MLPs, loss functions, and practical training heuristics. [cs231n.github.io](https://cs231n.github.io/)
 
 - **MIT 6.S191 slides** (optional visual companion). A concise slide deck covering deep-learning fundamentals with helpful visuals and pointers. [cs231n.stanford.edu](https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf)
+
+- **CME 296 Diffusion & Large Vision Models. This course explores diffusion-based generative models for vision. You will study the foundations of diffusion, score matching and flow matching, modern architectures such as U-Nets and Diffusion Transformers, and methods for controllable image generation and evaluation. [cme296](https://cme296.stanford.edu/) 
